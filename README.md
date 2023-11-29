@@ -24,7 +24,7 @@ I am a Senior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 [<p align="center"><img src="https://img.youtube.com/vi/5ilJ14_u7k0/hqdefault.jpg" width="600" height="300"
 /></p>](https://www.youtube.com/embed/5ilJ14_u7k0)
 
-<p align="center">[Test this app](https://blog.jeedom.com/7322-beta-nouvelle-application-mobile/)</p>
+[<p align="center">Test this app</p>](https://blog.jeedom.com/7322-beta-nouvelle-application-mobile/)
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
