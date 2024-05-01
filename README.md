@@ -37,7 +37,7 @@ https://www.youtube.com/embed/5ilJ14_u7k0
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJs" alt="NestJs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="NestJs" alt="NestJs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
@@ -58,6 +58,8 @@ https://www.youtube.com/embed/5ilJ14_u7k0
 
 ### 🔥 &nbsp; My Stats for Repos Public :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rocket13011&theme=dark&background=000000)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rocket13011&show_icons=true&theme=dracula)
 
 [![Anurag's GitHub stats](https://github-readme-stats-nine-hazel-23.vercel.app/api?username=rocket13011&theme=vision-friendly-dark&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-nine-hazel-23.vercel.app/api/top-langs/?username=rocket13011&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
