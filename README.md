@@ -11,7 +11,6 @@
 
 I am a Lead Sofware Ingineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
 
-- 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications from [Jeedom](https://jeedom.com).
 - 📱 Also working on the mobile applications [Jeedom v2](https://blog.jeedom.com/7322-beta-nouvelle-application-mobile/) and [TruckFly](https://www.truckfly.com).
 - 🌱 Exploring Technical Content Writing.
