@@ -11,7 +11,8 @@
 
 I am a Lead Sofware Ingineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications from [Jeedom](https://jeedom.com).
+-	🔭 I’m currently Lead Software Engineer at Michelin, working on the TruckFly mobile application.
+- 🧩 Previously contributed to both frontend and backend development for web applications at [Jeedom](https://jeedom.com).
 - 📱 Also working on the mobile applications [Jeedom v2](https://blog.jeedom.com/7322-beta-nouvelle-application-mobile/) and [TruckFly](https://www.truckfly.com).
 - 🌱 Exploring Technical Content Writing.
 - 🛬 Making core-memories with my daughter and my life-partner • Go golfing and take a dip
@@ -55,11 +56,3 @@ https://www.youtube.com/embed/5ilJ14_u7k0
 </p>
 
 ---
-
-### 🔥 &nbsp; My Stats for Repos Public :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rocket13011&theme=dark&background=000000)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rocket13011&show_icons=true&theme=dracula)
-
-[![Anurag's GitHub stats](https://github-readme-stats-nine-hazel-23.vercel.app/api?username=rocket13011&theme=vision-friendly-dark&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-nine-hazel-23.vercel.app/api/top-langs/?username=rocket13011&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
